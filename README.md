@@ -4,6 +4,10 @@
 
 A modern, robust Python library for controlling Sony Audio/Video Receivers (AVRs) and Soundbars that support the CIS-IP2 protocol over Ethernet/IP.
 
+**CIS stands for Custom Installation Services (or Solutions).**
+
+_It's the protocol companies like Crestron, Control4 and homeseer use to provide their customers with local, granular control of their Sony AV devices._
+
 ## Overview
 
 `sony-cispy` provides a clean, async/await-based interface for communicating with Sony AVRs and soundbars using the CIS-IP2 protocol. This library merges the best aspects of previous implementations, offering:
@@ -25,8 +29,6 @@ A modern, robust Python library for controlling Sony Audio/Video Receivers (AVRs
 - 🧪 **Well Tested**: Comprehensive unit test suite with mocked network connections
 
 ## About the Protocol
-
-**CIS stands for Custom Installation Services (or Solutions). It's the protocol companies like Crestron, Control4 and homeseer use to provide their customers with local, granular control of their Sony AV devices.**
 
 The Sony CIS-IP2 protocol is a network (Ethernet/IP) command language for controlling Sony Audio/Video Receivers (AVRs), Soundbars and potentially other Sony AV devices. This protocol allows you to control volume, settings, and inputs over the network, rather than using older serial (RS-232) methods.
 
