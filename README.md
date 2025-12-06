@@ -6,7 +6,7 @@ A modern, robust Python library for controlling Sony Audio/Video Receivers (AVRs
 
 **CIS stands for Custom Installation Services (or Solutions).**
 
-_It's the **Sony Specific** protocol companies like Crestron, Control4 and homeseer use to provide their customers with local, granular control of their Sony AV devices._
+_It's the **Sony Specific** protocol companies like Crestron, Control4 and homeseer use to provide their customers with local, granular control of their Sony AV devices. (At least that's what I could piece together based on misc forum posts_
 
 ## Overview
 
