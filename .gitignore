@@ -1,0 +1,19 @@
+# artifacts
+__pycache__
+.pytest*
+*.egg-info
+*/build/*
+*/dist/*
+
+# misc
+.coverage
+.vscode
+coverage.xml
+.ruff_cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# reference implementations (merged into sony_cispy/)
+reference/
