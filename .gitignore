@@ -16,4 +16,4 @@ coverage.xml
 Thumbs.db
 
 # reference implementations (merged into sony_cispy/)
-reference/
+reference/bravia-quad-homeassistant
